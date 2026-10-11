@@ -1,0 +1,36 @@
+
+{
+  "students": [],
+  "courses": [
+    {
+      "id": "1",
+      "name": "BSIT",
+      "description": "Bachelor of Science in Information Technology"
+    },
+    {
+      "id": "2",
+      "name": "BSCS",
+      "description": "Bachelor of Science in Computer Science"
+    },
+    {
+      "id": "3",
+      "name": "BSIT - Network Administration",
+      "description": "Information Technology with Network Administration"
+    },
+    {
+      "id": "4",
+      "name": "BSIT - Web Development",
+      "description": "Information Technology with Web Development"
+    },
+    {
+      "id": "5",
+      "name": "BSHM",
+      "description": "Bachelor of Science in Hospitality Management"
+    },
+    {
+      "id": "6",
+      "name": "BSBA",
+      "description": "Bachelor of Science in Business Administration"
+    }
+  ]
+}
