@@ -1,19 +1,60 @@
 {
-  "posts": [
+  "students": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "fullName": "Melody Quirol",
+      "email": "quirol@gmail.com",
+      "courseId": "6",
+      "yearLevel": "4th Year",
+      "createdAt": "2026-10-14",
+      "id": 1
+    },
+    {
+      "fullName": "mark erwin anunciado",
+      "email": "markerwinaunciado@gmail.com",
+      "courseId": "3",
+      "yearLevel": "3rd Year",
+      "createdAt": "2026-10-14",
+      "id": 2
+    },
+    {
+      "fullName": "LANCE",
+      "email": "lansoy@gmail.com",
+      "courseId": "5",
+      "yearLevel": "5th Year",
+      "createdAt": "2026-10-14",
+      "id": 3
     }
   ],
-  "comments": [
+  "courses": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "1",
+      "name": "BSIT",
+      "description": "Bachelor of Science in Information Technology"
+    },
+    {
+      "id": "2",
+      "name": "BSCS",
+      "description": "Bachelor of Science in Computer Science"
+    },
+    {
+      "id": "3",
+      "name": "BSIT - Network Administration",
+      "description": "Information Technology with Network Administration"
+    },
+    {
+      "id": "4",
+      "name": "BSIT - Web Development",
+      "description": "Information Technology with Web Development"
+    },
+    {
+      "id": "5",
+      "name": "BSHM",
+      "description": "Bachelor of Science in Hospitality Management"
+    },
+    {
+      "id": "6",
+      "name": "BSBA",
+      "description": "Bachelor of Science in Business Administration"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
