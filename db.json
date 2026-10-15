@@ -1,14 +1,6 @@
 {
   "students": [
     {
-      "fullName": "Melody Quirol",
-      "email": "quirol@gmail.com",
-      "courseId": "6",
-      "yearLevel": "4th Year",
-      "createdAt": "2026-10-14",
-      "id": 1
-    },
-    {
       "fullName": "mark erwin anunciado",
       "email": "markerwinaunciado@gmail.com",
       "courseId": "3",
@@ -23,6 +15,14 @@
       "yearLevel": "5th Year",
       "createdAt": "2026-10-14",
       "id": 3
+    },
+    {
+      "fullName": "jeneza",
+      "email": "ezra@gmail.com",
+      "courseId": "4",
+      "yearLevel": "4th Year",
+      "createdAt": "2026-10-15",
+      "id": 4
     }
   ],
   "courses": [
